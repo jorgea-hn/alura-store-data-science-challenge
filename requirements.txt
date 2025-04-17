@@ -1,0 +1,13 @@
+
+## ✅ Requisitos
+
+- Python 3.8+
+- pandas
+- matplotlib
+- seaborn (opcional)
+- jupyter
+
+Instalar con:
+
+```bash
+pip install -r requirements.txt

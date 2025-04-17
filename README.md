@@ -21,7 +21,6 @@ Se incluirán al menos 3 tipos de gráficos para el análisis:
 
 - Gráfico de barras de ingresos por tienda
 - Gráfico circular de categorías más vendidas
-- Gráfico de dispersión de reseñas vs ventas
 
-## 📁 Estructura del repositorio
+
 
